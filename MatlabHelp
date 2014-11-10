@@ -1,0 +1,5 @@
+To create Matlab matrix from .xlsx file: 
+  1. In Matlab, click "Import Data" Icon at top
+  2. Find file, click "Open"
+  3. Under "Imported Data" tab at top, click "Matrix"
+  4. Under "Import Selection", click "Import Data" from drop-down menu
